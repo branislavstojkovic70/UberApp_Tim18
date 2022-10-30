@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/drawable_proba.jpg.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/drawable/proba.jpg"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/drawable_backedit.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/drawable/backedit.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/drawable_ic_person.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/layout_activity_passenger_main.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/layout/activity_passenger_main.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/drawable_ic_password.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/drawable/ic_password.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/layout_activity_user_login2.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/layout/activity_user_login2.xml"
+    },
+    {
+        "merged": "com.example.uberapp_tim18.app-merged_res-29:/layout_activity_passenger_register.xml.flat",
+        "source": "com.example.uberapp_tim18.app-main-31:/layout/activity_passenger_register.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/layout_activity_passenger_register.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/layout/activity_passenger_register.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/drawable_buttonshape.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/drawable/buttonshape.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/layout_activity_splash.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/drawable_logo.jpeg.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/drawable/logo.jpeg"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/layout_activity_passenger_inbox.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/layout/activity_passenger_inbox.xml"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-merged_res-29:/layout_activity_passenger_account.xml.flat",
+        "source": "/Users/bane/.gradle/daemon/7.4/com.example.uberapp_tim18.app-main-31:/layout/activity_passenger_account.xml"
+    }
+]
