@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.uberapp_tim18"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:5:5-70:19
+12        android:allowBackup="true"
+12-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] /Users/bane/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.UberApp_Tim18" >
+23-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:13:9-51
+24        <activity
+24-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:15:9-21:20
+25            android:name="com.example.uberapp_tim18.PassengerInboxActivity"
+25-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:16:13-51
+26            android:exported="false" >
+26-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:17:13-37
+27            <meta-data
+27-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:18:13-20:36
+28                android:name="android.app.lib_name"
+28-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:19:17-52
+29                android:value="" />
+29-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:20:17-33
+30        </activity>
+31        <activity
+31-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:22:9-28:20
+32            android:name="com.example.uberapp_tim18.PassengerAccountActivity"
+32-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:23:13-53
+33            android:exported="false" >
+33-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:24:13-37
+34            <meta-data
+34-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:18:13-20:36
+35                android:name="android.app.lib_name"
+35-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:19:17-52
+36                android:value="" />
+36-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:20:17-33
+37        </activity>
+38        <activity
+38-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:29:9-35:20
+39            android:name="com.example.uberapp_tim18.PassengerMainActivity"
+39-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:30:13-50
+40            android:exported="false" >
+40-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:31:13-37
+41            <meta-data
+41-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:18:13-20:36
+42                android:name="android.app.lib_name"
+42-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:19:17-52
+43                android:value="" />
+43-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:20:17-33
+44        </activity>
+45        <activity
+45-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:36:9-42:20
+46            android:name="com.example.uberapp_tim18.PassengerRegisterActivity"
+46-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:37:13-54
+47            android:exported="false" >
+47-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:38:13-37
+48            <meta-data
+48-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:18:13-20:36
+49                android:name="android.app.lib_name"
+49-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:19:17-52
+50                android:value="" />
+50-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:20:17-33
+51        </activity>
+52        <activity
+52-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:43:9-49:20
+53            android:name="com.example.uberapp_tim18.UserLoginActivity"
+53-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:44:13-46
+54            android:exported="false" >
+54-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:45:13-37
+55            <meta-data
+55-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:18:13-20:36
+56                android:name="android.app.lib_name"
+56-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:19:17-52
+57                android:value="" />
+57-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:20:17-33
+58        </activity>
+59        <activity
+59-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:50:9-56:20
+60            android:name="com.example.uberapp_tim18.SplashActivity"
+60-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:51:13-43
+61            android:exported="false" >
+61-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:52:13-37
+62            <meta-data
+62-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:18:13-20:36
+63                android:name="android.app.lib_name"
+63-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:19:17-52
+64                android:value="" />
+64-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:20:17-33
+65        </activity>
+66        <activity
+66-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:57:9-69:20
+67            android:name="com.example.uberapp_tim18.MainActivity"
+67-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:58:13-41
+68            android:exported="true" >
+68-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:59:13-36
+69            <intent-filter>
+69-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:60:13-64:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:61:17-69
+70-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:61:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:63:17-77
+72-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:63:27-74
+73            </intent-filter>
+74
+75            <meta-data
+75-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:18:13-20:36
+76                android:name="android.app.lib_name"
+76-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:19:17-52
+77                android:value="" />
+77-->/Users/bane/Desktop/UberApp_Tim18/app/src/main/AndroidManifest.xml:20:17-33
+78        </activity>
+79
+80        <provider
+80-->[androidx.emoji2:emoji2:1.2.0] /Users/bane/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+81            android:name="androidx.startup.InitializationProvider"
+81-->[androidx.emoji2:emoji2:1.2.0] /Users/bane/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+82            android:authorities="com.example.uberapp_tim18.androidx-startup"
+82-->[androidx.emoji2:emoji2:1.2.0] /Users/bane/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+83            android:exported="false" >
+83-->[androidx.emoji2:emoji2:1.2.0] /Users/bane/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+84            <meta-data
+84-->[androidx.emoji2:emoji2:1.2.0] /Users/bane/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+85-->[androidx.emoji2:emoji2:1.2.0] /Users/bane/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+86                android:value="androidx.startup" />
+86-->[androidx.emoji2:emoji2:1.2.0] /Users/bane/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/bane/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/bane/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+89                android:value="androidx.startup" />
+89-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/bane/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+90        </provider>
+91    </application>
+92
+93</manifest>
